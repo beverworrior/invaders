@@ -1,0 +1,12 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+/* This is the battlefield */
+#board {
+    background-color: rgb(29, 8, 44);
+    border-radius: 25px;
+    border: 2px solid #940000;
+    padding: 20px; 
+}
+
